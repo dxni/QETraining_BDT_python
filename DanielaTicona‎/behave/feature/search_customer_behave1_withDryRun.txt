@@ -1,0 +1,12 @@
+C:\Users\Daniela Ticona\PycharmProjects1\QETraining_BDT_python\DanielaTicona?\behave\feature>behave search_customer_behave1.
+feature --dry-run
+Feature: Search Customer # search_customer_behave1.feature:2
+  © 2017 Daniela Ticona Copy Rights
+  SJ Label
+  Gaho it is OK
+  Scenario: my first scenario  # search_customer_behave1.feature:7
+
+1 feature passed, 0 failed, 0 skipped
+1 scenario passed, 0 failed, 0 skipped
+0 steps passed, 0 failed, 0 skipped, 0 undefined
+Took 0m0.000s
